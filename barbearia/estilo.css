@@ -1,0 +1,33 @@
+nav p{
+    color: aliceblue;
+}
+
+.card a{
+    color: white;
+   text-decoration: none;
+}
+
+
+
+
+
+.navalha {
+    width: 100%;
+    height: 500px;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px 15px;
+    margin-top: 40px;
+}
+
+iframe{
+    width: 100%;
+}
+ion-icon{
+    color: aliceblue;
+}
+
+
